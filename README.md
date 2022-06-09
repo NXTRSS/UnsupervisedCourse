@@ -1,4 +1,4 @@
-# Lekcja demo - Uczenie Maszynowe
+# Uczenie bez nadzoru
 
 Poniżej przedstawiam instrukcję niezbędnych kroków do wykonania przed zajęciami
 
